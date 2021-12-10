@@ -1,11 +1,10 @@
-# Sildur-shaders-lite-Chinese-translation
-Sildur v1.31 lite 光影汉化
+# Sildur-shaders-lite-汉化
 
-What should I do?
-1. Unzip sildur shader lite
-2. Open the shaders, open the lang
-3. Delete en_US.lang from the folder
-4. Download zn_cn.lang
-5. Put zn_cn.lang in the folder
-6. Compress the entire shaders folder
-7. Move the zip package into the shaderpacks folder
+需要做什么？
+1. 将光影包解压
+2. 打开shaders文件夹，打开lang文件夹
+3. 删除en_US.lang
+4. 下载zh_cn.lang
+5. 将zn_cn.lang放入lang文件夹
+6. 将整个shaders文件夹压缩成zip
+7. 将整个zip放入shaderpacks文件夹
