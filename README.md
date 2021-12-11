@@ -1,4 +1,4 @@
-# Sildur-shaders-lite-汉化
+# Sildur-Vibrant-Shaders-lite-汉化
 
 需要做什么？
 1. 将光影包解压
